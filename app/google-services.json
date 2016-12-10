@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820815383022",
+    "firebase_url": "https://hapapplication-bfa06.firebaseio.com",
+    "project_id": "hapapplication-bfa06",
+    "storage_bucket": "hapapplication-bfa06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820815383022:android:8d0dc7775b818fac",
+        "android_client_info": {
+          "package_name": "com.developement.app.hap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820815383022-44ubj6v08vep0ohor7fkudis2m1e1fnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developement.app.hap",
+            "certificate_hash": "7E73571AAB684C2AF122C69B6C3E52524E365627"
+          }
+        },
+        {
+          "client_id": "820815383022-9pu0sqm119a8hs5ogal8cjkg3dh6gn5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9JUw7TSWVsUabq7RfzF68Ga4TcAlEm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820815383022-9pu0sqm119a8hs5ogal8cjkg3dh6gn5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
